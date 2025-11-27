@@ -16,12 +16,6 @@ second evenly divisible by $resolution.
 Default search string is '$default'
 ";
 
-
-# 	uses nvidia-smi to gather the info
-#	memory value is in MiB
-#
-
-
 use strict;
 
 use Time::HiRes(qw/nanosleep/);
